@@ -1,0 +1,17 @@
+D:\code\.net\Gen1\Gen1\bin\Debug\net6.0-windows\Gen1.exe
+D:\code\.net\Gen1\Gen1\bin\Debug\net6.0-windows\Gen1.deps.json
+D:\code\.net\Gen1\Gen1\bin\Debug\net6.0-windows\Gen1.runtimeconfig.json
+D:\code\.net\Gen1\Gen1\bin\Debug\net6.0-windows\Gen1.dll
+D:\code\.net\Gen1\Gen1\bin\Debug\net6.0-windows\ref\Gen1.dll
+D:\code\.net\Gen1\Gen1\bin\Debug\net6.0-windows\Gen1.pdb
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.csproj.AssemblyReference.cache
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.Form1.resources
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.csproj.GenerateResource.cache
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.AssemblyInfoInputs.cache
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.AssemblyInfo.cs
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.csproj.CoreCompileInputs.cache
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.dll
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\ref\Gen1.dll
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.pdb
+D:\code\.net\Gen1\Gen1\obj\Debug\net6.0-windows\Gen1.genruntimeconfig.cache
